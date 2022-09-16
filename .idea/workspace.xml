@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch5/LocalVariableType.java" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220916">
+      <change afterPath="$PROJECT_DIR$/src/ch10/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/ShortCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/ConditionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch1/helloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/helloJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +40,52 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.LocalVariableType">
+  <component name="RunManager" selected="애플리케이션.ConditionTest">
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ConditionTest" />
+      <module name="fastcapus_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LocalVariableType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch5.LocalVariableType" />
       <module name="fastcapus_test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10.OperatorTest" />
+      <module name="fastcapus_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.ShortCircuit" />
+      <module name="fastcapus_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,6 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ConditionTest" />
+        <item itemvalue="애플리케이션.ShortCircuit" />
+        <item itemvalue="애플리케이션.OperatorTest" />
         <item itemvalue="애플리케이션.LocalVariableType" />
         <item itemvalue="애플리케이션.helloJava" />
       </list>
@@ -82,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663287467876</updated>
     </task>
+    <task id="LOCAL-00001" summary="20220916">
+      <created>1663288800083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663288800083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20220916" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220916" />
   </component>
 </project>
