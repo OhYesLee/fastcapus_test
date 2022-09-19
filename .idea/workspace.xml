@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220917">
-      <change afterPath="$PROJECT_DIR$/src/ch13/BitTest.java" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220918">
+      <change afterPath="$PROJECT_DIR$/src/ch19/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch20/NestedLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21/ContinueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +41,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.BitTest">
+  <component name="RunManager" selected="애플리케이션.ContinueTest">
     <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch13.BitTest" />
       <module name="fastcapus_test" />
@@ -52,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.IfElseTest" />
+    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.BreakTest" />
       <module name="fastcapus_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.*" />
+          <option name="PATTERN" value="ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch10.OperatorTest" />
+    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.ContinueTest" />
       <module name="fastcapus_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch10.*" />
+          <option name="PATTERN" value="ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.ShortCircuit" />
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19.ForTest" />
       <module name="fastcapus_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.*" />
+          <option name="PATTERN" value="ch19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch13.ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.ConditionTest" />
+    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20.NestedLoopTest" />
       <module name="fastcapus_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13.*" />
+          <option name="PATTERN" value="ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ContinueTest" />
+        <item itemvalue="애플리케이션.BreakTest" />
+        <item itemvalue="애플리케이션.NestedLoopTest" />
+        <item itemvalue="애플리케이션.ForTest" />
         <item itemvalue="애플리케이션.BitTest" />
-        <item itemvalue="애플리케이션.IfElseTest" />
-        <item itemvalue="애플리케이션.ch13.ConditionTest" />
-        <item itemvalue="애플리케이션.ShortCircuit" />
-        <item itemvalue="애플리케이션.OperatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663424806824</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20220918">
+      <created>1663511727770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663511727770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +180,7 @@
     <MESSAGE value="20220916_2" />
     <MESSAGE value="20220916_2if" />
     <MESSAGE value="20220917" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220917" />
+    <MESSAGE value="20220918" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220918" />
   </component>
 </project>
