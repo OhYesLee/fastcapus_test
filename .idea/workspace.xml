@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220918">
-      <change afterPath="$PROJECT_DIR$/src/ch19/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch20/NestedLoopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/BreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch21/ContinueTest.java" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220919">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/chapter3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/chaptet2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch02/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch02/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch03/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch04/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/ch01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,25 +43,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
     "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ContinueTest">
-    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13.BitTest" />
-      <module name="fastcapus_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.StudentTest">
     <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch21.BreakTest" />
       <module name="fastcapus_test" />
@@ -81,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19.ForTest" />
-      <module name="fastcapus_test" />
+    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.FunctionTest" />
+      <module name="chaptet2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19.*" />
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.StudentTest" />
+      <module name="chaptet2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StudentTest" />
+        <item itemvalue="애플리케이션.FunctionTest" />
         <item itemvalue="애플리케이션.ContinueTest" />
         <item itemvalue="애플리케이션.BreakTest" />
         <item itemvalue="애플리케이션.NestedLoopTest" />
-        <item itemvalue="애플리케이션.ForTest" />
-        <item itemvalue="애플리케이션.BitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663511727770</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20220919">
+      <created>1663549791604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663549791604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +197,7 @@
     <MESSAGE value="20220916_2if" />
     <MESSAGE value="20220917" />
     <MESSAGE value="20220918" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220918" />
+    <MESSAGE value="20220919" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220919" />
   </component>
 </project>
