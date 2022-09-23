@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220921">
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch14/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch14/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch14/Subway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch14/TakeTransTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220923">
+      <change beforePath="$PROJECT_DIR$/chaptet2/src/ch14/TakeTransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chaptet2/src/ch14/TakeTransTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.BirthDayTest">
+  <component name="RunManager" selected="애플리케이션.TakeTransTest">
     <configuration name="BirthDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch10.BirthDayTest" />
       <module name="chaptet2" />
@@ -114,6 +110,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.TakeTransTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663728237362</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20220923">
+      <created>1663920035463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663920035463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +225,8 @@
     <MESSAGE value="20220919" />
     <MESSAGE value="20220920" />
     <MESSAGE value="20220921" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220921" />
+    <MESSAGE value="20220923" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220923" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
