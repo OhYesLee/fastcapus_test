@@ -20,6 +20,8 @@ public class TakeTransTest {
         bus100.showBusinfo();
         greenSubway.showSubwayinfo();
 
+        bus500.showBusinfo();
+
         System.out.println("커밋이 잘된건가?");
     }
 }
