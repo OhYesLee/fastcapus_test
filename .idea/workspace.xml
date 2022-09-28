@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220928">
-      <change afterPath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/Subject_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_Start/Spring_Start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_Start/src/ch02/ListExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -69,7 +68,7 @@
       <recent name="ch24_2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StudentTest">
+  <component name="RunManager" selected="애플리케이션.ListExercise">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch23.ArrayListTest" />
       <module name="chaptet2" />
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopy2" />
-      <module name="chaptet2" />
+    <configuration name="ListExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.ListExercise" />
+      <module name="Spring_Start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopyTest" />
+    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopy2" />
       <module name="chaptet2" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ListExercise" />
         <item itemvalue="애플리케이션.StudentTest" />
         <item itemvalue="애플리케이션.ArrayListTest" />
         <item itemvalue="애플리케이션.TwoDimensionTest" />
         <item itemvalue="애플리케이션.ObjectCopy2" />
-        <item itemvalue="애플리케이션.ObjectCopyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664329950998</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="20220928">
+      <created>1664333955948</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664333955948</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
