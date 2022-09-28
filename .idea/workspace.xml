@@ -4,35 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220927">
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/Test_chapter2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch02/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch02/UserId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch03/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch04/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch04/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch04_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch06/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch07/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch07/UserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch08/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch08/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch09/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch09/SubjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch10/BirthDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch10/BirthDayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch11/MakeReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch11/MakeReportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_chapter2/src/ch12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/CH22/TwoDimensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch23/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24/StudentTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220928">
+      <change afterPath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaptet2/src/ch24_2/Subject_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,27 +65,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Test_chapter2/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch24_2" />
+    </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArrayListTest">
+  <component name="RunManager" selected="애플리케이션.StudentTest">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch23.ArrayListTest" />
       <module name="chaptet2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.BookTest" />
-      <module name="chaptet2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24_2.StudentTest" />
+      <module name="chaptet2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch24_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH22.TwoDimensionTest" />
       <module name="chaptet2" />
@@ -158,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StudentTest" />
         <item itemvalue="애플리케이션.ArrayListTest" />
         <item itemvalue="애플리케이션.TwoDimensionTest" />
         <item itemvalue="애플리케이션.ObjectCopy2" />
         <item itemvalue="애플리케이션.ObjectCopyTest" />
-        <item itemvalue="애플리케이션.BookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664248270131</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20220928">
+      <created>1664329950998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664329950998</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +285,8 @@
     <MESSAGE value="20220923" />
     <MESSAGE value="20220926" />
     <MESSAGE value="20220927" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220927" />
+    <MESSAGE value="20220928" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220928" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
