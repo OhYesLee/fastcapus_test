@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220928">
-      <change afterPath="$PROJECT_DIR$/Spring_Start/Spring_Start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring_Start/src/ch02/ListExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
       <recent name="ch24_2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ListExercise">
+  <component name="RunManager" selected="애플리케이션.StudentTest_1">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch23.ArrayListTest" />
       <module name="chaptet2" />
@@ -95,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch21.ObjectCopy2" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24_2.StudentTest" />
       <module name="chaptet2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch21.*" />
+          <option name="PATTERN" value="ch24_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24_2.StudentTest" />
+    <configuration name="StudentTest_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24.StudentTest_1" />
       <module name="chaptet2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch24_2.*" />
+          <option name="PATTERN" value="ch24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StudentTest_1" />
         <item itemvalue="애플리케이션.ListExercise" />
         <item itemvalue="애플리케이션.StudentTest" />
         <item itemvalue="애플리케이션.ArrayListTest" />
         <item itemvalue="애플리케이션.TwoDimensionTest" />
-        <item itemvalue="애플리케이션.ObjectCopy2" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664333955948</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="20220928">
+      <created>1664346771851</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664346771851</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
