@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220928">
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20220929">
+      <change afterPath="$PROJECT_DIR$/TemporarilyTest3/TemporarilyTest3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/Test_chapter2/src",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/TemporarilyTest3/src",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -59,6 +61,7 @@
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TemporarilyTest3/src" />
       <recent name="$PROJECT_DIR$/Test_chapter2/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -269,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664346771851</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20220929">
+      <created>1664422700457</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664422700457</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +306,8 @@
     <MESSAGE value="20220926" />
     <MESSAGE value="20220927" />
     <MESSAGE value="20220928" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220928" />
+    <MESSAGE value="20220929" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220929" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
