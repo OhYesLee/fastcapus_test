@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221002change">
-      <change afterPath="$PROJECT_DIR$/study_1/study_1.iml" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221003change">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/study_1/src",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/study_2/src",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -61,6 +60,7 @@
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/study_2/src" />
       <recent name="$PROJECT_DIR$/study_1/src" />
       <recent name="$PROJECT_DIR$/TemporarilyTest3/src/test" />
       <recent name="$PROJECT_DIR$/TemporarilyTest3/src" />
@@ -309,7 +309,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664708398568</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="20221003change">
+      <created>1664793508013</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664793508013</updated>
+    </task>
+    <task id="LOCAL-00024" summary="20221003change">
+      <created>1664793715832</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664793715832</updated>
+    </task>
+    <task id="LOCAL-00025" summary="20221003change">
+      <created>1664794574008</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664794574008</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +360,8 @@
     <MESSAGE value="20220929" />
     <MESSAGE value="20221001" />
     <MESSAGE value="20221002change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221002change" />
+    <MESSAGE value="20221003change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221003change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
