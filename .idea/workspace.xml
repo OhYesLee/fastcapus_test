@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221004change" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221005change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,29 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/leeeeeesunguk/work/fastcapus_test/chapter3/src/ch03&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/chapte01_02/src/chapter02",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapte01_02/src/chapter02" />
+      <recent name="$PROJECT_DIR$/chapte01_02/src/chapter01" />
+      <recent name="$PROJECT_DIR$/chapte01_02" />
       <recent name="$PROJECT_DIR$/chapter3/src/ch03" />
       <recent name="$PROJECT_DIR$/study_2/src" />
-      <recent name="$PROJECT_DIR$/study_1/src" />
-      <recent name="$PROJECT_DIR$/TemporarilyTest3/src/test" />
-      <recent name="$PROJECT_DIR$/TemporarilyTest3/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch24_2" />
@@ -348,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664944623373</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="20221005change">
+      <created>1664945165473</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664945165473</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +387,8 @@
     <MESSAGE value="20221002change" />
     <MESSAGE value="20221003change" />
     <MESSAGE value="20221004change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221004change" />
+    <MESSAGE value="20221005change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221005change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
