@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221005change" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221006change">
+      <change afterPath="$PROJECT_DIR$/test01/test01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +45,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/chapte01_02/src/chapter02",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/test01/src",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -57,11 +62,11 @@
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test01/src" />
+      <recent name="$PROJECT_DIR$/chapter01_02_test/src" />
       <recent name="$PROJECT_DIR$/chapte01_02/src/chapter02" />
       <recent name="$PROJECT_DIR$/chapte01_02/src/chapter01" />
       <recent name="$PROJECT_DIR$/chapte01_02" />
-      <recent name="$PROJECT_DIR$/chapter3/src/ch03" />
-      <recent name="$PROJECT_DIR$/study_2/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch24_2" />
@@ -355,7 +360,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664945165473</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="20221006change">
+      <created>1665056683069</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1665056683069</updated>
+    </task>
+    <task id="LOCAL-00031" summary="20221006change">
+      <created>1665056770286</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1665056770286</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +407,8 @@
     <MESSAGE value="20221003change" />
     <MESSAGE value="20221004change" />
     <MESSAGE value="20221005change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221005change" />
+    <MESSAGE value="20221006change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221006change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
