@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring_Start/Spring_Start.iml" filepath="$PROJECT_DIR$/Spring_Start/Spring_Start.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapte01_02/chapte01_02.iml" filepath="$PROJECT_DIR$/chapte01_02/chapte01_02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter01_02_test/chapter01_02_test.iml" filepath="$PROJECT_DIR$/chapter01_02_test/chapter01_02_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/chaptet2/chaptet2.iml" filepath="$PROJECT_DIR$/chaptet2/chaptet2.iml" />
       <module fileurl="file://$PROJECT_DIR$/fastcapus_test.iml" filepath="$PROJECT_DIR$/fastcapus_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test03/test03.iml" filepath="$PROJECT_DIR$/test03/test03.iml" />
     </modules>
   </component>
 </project>

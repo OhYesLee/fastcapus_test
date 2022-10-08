@@ -4,10 +4,141 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221006change">
-      <change afterPath="$PROJECT_DIR$/test01/test01.iml" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221007change">
+      <change afterPath="$PROJECT_DIR$/test03/src/ch01/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test03/src/ch02/Scan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/chapte01_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test02/test02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch1/helloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch1/helloJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch10/OperatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch10/OperatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch12/ShortCircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch12/ShortCircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch13/BitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch13/BitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch13/ConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch13/ConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch14/IfElseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch14/IfElseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch19_re/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch19_re/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch20/NestedLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch20/NestedLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch21/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch21/BreakTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch21/ContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch21/ContinueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter01/ch5/LocalVariableType.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter01/ch5/LocalVariableType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/CH22/TwoDimensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/CH22/TwoDimensionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch02/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch02/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch02/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch02/UserId.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch02/UserId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch03/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch03/FunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch04/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch04/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch04/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch04/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch04_2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch04_2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch06/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch06/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch06/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch06/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch07/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch07/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch07/UserInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch07/UserInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch08/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch08/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch08/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch08/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch09/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch09/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch09/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch09/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch09/SubjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch09/SubjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch10/BirthDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch10/BirthDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch10/BirthDayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch10/BirthDayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch11/MakeReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch11/MakeReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch11/MakeReportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch11/MakeReportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch12/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch12/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch14/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch14/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch14/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch14/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch14/Subway.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch14/Subway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch14/TakeTransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch14/TakeTransTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch15/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch15/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch15/TakeTransTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch15/TakeTransTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch15/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch15/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch15/ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch15/ToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch15/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch15/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch16/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch16/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch16/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch16/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch18/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch18/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch18/CompanyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch18/CompanyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch19_re/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch19_re/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch19_re/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch19_re/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch19_re/CarFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch19_re/CarFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch20/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch20/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch20/CharArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch20/CharArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch20/Double.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch20/Double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch21/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch21/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch21/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch21/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch21/ObjectCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch21/ObjectCopy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch21/ObjectCopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch21/ObjectCopyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch23/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch23/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24/StudentTest_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24/StudentTest_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24_2/Student2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24_2/Student2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24_2/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24_2/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapte01_02/src/chapter02/ch24_2/Subject_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test03/src/ch01/chapter02/ch24_2/Subject_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/chapter01_02_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test03/test03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch01/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch1/helloJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch10/OperatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch12/ShortCircuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch13/BitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch13/ConditionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch14/IfElseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch19_re/ForTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch20/NestedLoopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch21/BreakTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch21/ContinueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter01/ch5/LocalVariableType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/CH22/TwoDimensionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch02/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch02/UserId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch03/FunctionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch04/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch04/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch04_2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch06/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch06/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch07/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch07/UserInfoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch08/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch08/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch09/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch09/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch09/SubjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch10/BirthDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch10/BirthDayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch11/MakeReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch11/MakeReportTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch12/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch14/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch14/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch14/Subway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch14/TakeTransTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch15/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch15/TakeTransTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch15/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch15/ToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch15/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch16/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch16/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch18/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch18/CompanyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch19_re/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch19_re/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch19_re/CarFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch20/ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch20/CharArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch20/Double.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch21/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch21/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch21/ObjectCopy2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch21/ObjectCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch23/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24/StudentTest_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24_2/Student2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24_2/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter01_02_test/src/chapter02/ch24_2/Subject_2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +181,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/test01/src",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/test03/src/ch01",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -62,17 +193,17 @@
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test03/src/ch01" />
+      <recent name="$PROJECT_DIR$/chaptet2/src" />
+      <recent name="$PROJECT_DIR$/test02/src" />
       <recent name="$PROJECT_DIR$/test01/src" />
       <recent name="$PROJECT_DIR$/chapter01_02_test/src" />
-      <recent name="$PROJECT_DIR$/chapte01_02/src/chapter02" />
-      <recent name="$PROJECT_DIR$/chapte01_02/src/chapter01" />
-      <recent name="$PROJECT_DIR$/chapte01_02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch24_2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.helloJava">
+  <component name="RunManager" selected="애플리케이션.Scan">
     <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch02.CustomerTest" />
       <module name="chapter3" />
@@ -86,25 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch02.ListExercise" />
-      <module name="Spring_Start" />
+    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.Scan" />
+      <module name="test03" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch24.StudentTest_1" />
-      <module name="chaptet2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,6 +236,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.hello" />
+      <module name="test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Scan" />
+        <item itemvalue="애플리케이션.hello" />
         <item itemvalue="애플리케이션.helloJava" />
         <item itemvalue="애플리케이션.ch03.CustomerTest" />
         <item itemvalue="애플리케이션.CustomerTest" />
-        <item itemvalue="애플리케이션.StudentTest_1" />
-        <item itemvalue="애플리케이션.ListExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +505,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665056770286</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="20221007change">
+      <created>1665120258616</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1665120258616</updated>
+    </task>
+    <task id="LOCAL-00033" summary="20221007change">
+      <created>1665120308266</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1665120308266</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,7 +553,8 @@
     <MESSAGE value="20221004change" />
     <MESSAGE value="20221005change" />
     <MESSAGE value="20221006change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221006change" />
+    <MESSAGE value="20221007change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221007change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
