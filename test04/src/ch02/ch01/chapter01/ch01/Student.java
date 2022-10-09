@@ -1,0 +1,7 @@
+package ch02.ch01.chapter01.ch01;
+
+public class Student {
+    public static void main(String[] args) {
+
+    }
+}
