@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221010change">
-      <change afterPath="$PROJECT_DIR$/chapter3/src/ch01_re/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/src/ch02_re/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221015change">
+      <change afterPath="$PROJECT_DIR$/chapter3/src/ch02_re/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/src/ch02_re/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
       <recent name="$PROJECT_DIR$/test04/src/ch01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch02_re" />
       <recent name="ch24_2" />
     </key>
   </component>
@@ -460,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665405523511</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="20221015change">
+      <created>1665811886558</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1665811886558</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +504,8 @@
     <MESSAGE value="20221008change" />
     <MESSAGE value="20221009change" />
     <MESSAGE value="20221010change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221010change" />
+    <MESSAGE value="20221015change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221015change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
