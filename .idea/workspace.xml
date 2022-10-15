@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221009change" />
+    <list default="true" id="18d3f77d-883f-4c27-bcfe-2f246cb78c5c" name="변경" comment="20221010change">
+      <change afterPath="$PROJECT_DIR$/chapter3/src/ch01_re/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/src/ch02_re/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/src/ch01/extend.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test/test04/src/ch02",
+    "last_opened_file_path": "/Users/leeeeeesunguk/work/fastcapus_test",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -58,11 +64,11 @@
       <recent name="ch15" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test05/src/chapter02" />
+      <recent name="$PROJECT_DIR$/test05/src/chapter01" />
+      <recent name="$PROJECT_DIR$/test05/src" />
       <recent name="$PROJECT_DIR$/test04/src/ch02" />
       <recent name="$PROJECT_DIR$/test04/src/ch01" />
-      <recent name="$PROJECT_DIR$/test04/src" />
-      <recent name="$PROJECT_DIR$/test03/src/ch02" />
-      <recent name="$PROJECT_DIR$/test03/src/ch01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch24_2" />
@@ -433,7 +439,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665320115387</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="20221010change">
+      <created>1665405437427</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665405437427</updated>
+    </task>
+    <task id="LOCAL-00042" summary="20221010change">
+      <created>1665405480579</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1665405480582</updated>
+    </task>
+    <task id="LOCAL-00043" summary="20221010change">
+      <created>1665405523511</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1665405523511</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +497,8 @@
     <MESSAGE value="20221007change" />
     <MESSAGE value="20221008change" />
     <MESSAGE value="20221009change" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221009change" />
+    <MESSAGE value="20221010change" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221010change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
